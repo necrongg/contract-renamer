@@ -1,0 +1,6 @@
+private_key.json
+관리자용_*.zip
+log/
+__pycache__/
+build/
+dist/
